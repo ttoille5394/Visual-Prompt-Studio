@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+**Name** Tenni Nicholson
+**Course** Art appreciation
+**Description** This is my prompt portfolio for my Art Appreciation Class.
