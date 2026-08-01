@@ -1,4 +1,5 @@
 **Assignment Title**:Visual Prompt Studio Phase 2.1
+
 **Promt**
 
 Create an artwork using linocut printmaking that emphasizes the elements and principles of line, shape, texture, contrast, movement, and unity. Use linoleum blocks, carving gouges, brayers, printing ink, and printmaking paper to produce the image. Apply the carving and relief-printing processes characteristic of linocut, creating bold carved lines and strong positive and negative shapes.The composition should feature a winding river flowing through a mountain landscape at sunrise, with the river acting as the focal point. Curved carved lines should guide the viewer's eye through the composition, creating movement. Strong black-and-white contrasts should replace the watercolor color gradients while maintaining the same overall design structure. Repeated carved textures in the mountains, sky, and water should create unity, while the bold contrast between inked and non-inked areas should emphasize the focal point and enhance visual impact. 
